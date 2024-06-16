@@ -50,6 +50,7 @@ Event-Countdown-Timer/
 ├── README.md          # Project README
 ├── Report.docx        # Project report
 ├── main.txt           # Script code of the main function
+├── Output             # Output screenshots i.e working
 ```
 
 ## Screenshots
