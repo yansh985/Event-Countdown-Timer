@@ -54,6 +54,11 @@ Event-Countdown-Timer/
 
 ## License
 This project is licensed under the MIT License.
+# If you like this mini project, star this repository.
+
+------
+# Contributing
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 ## Contact
 For any questions or suggestions, please contact:
@@ -61,3 +66,5 @@ For any questions or suggestions, please contact:
 - **Email:** yansh985@gmail.com
 
 Feel free to adjust the contact email and any other details as needed.
+
+------
