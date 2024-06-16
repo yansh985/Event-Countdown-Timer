@@ -52,6 +52,24 @@ Event-Countdown-Timer/
 ├── main.txt           # Script code of the main function
 ```
 
+## Screenshots
+### Welcome Screen
+![Welcome Screen](https://github.com/yansh985/Event-Countdown-Timer/assets/140264480/06caac30-5569-4212-9d9f-ff69a65cdf97)
+
+### Adding an Event
+![Add event](https://github.com/yansh985/Event-Countdown-Timer/assets/140264480/75d1fef2-0969-4624-af10-940d494deb90)
+
+### Countdown Display
+![Display Countdown](https://github.com/yansh985/Event-Countdown-Timer/assets/140264480/0d1eb864-3e3d-4cfe-9f45-58a7a8eb5f04)
+
+### Editing an Event
+![Edit event-1](https://github.com/yansh985/Event-Countdown-Timer/assets/140264480/059d09e2-6234-4a52-bb0a-fe7818275263)
+![Edit event-2](https://github.com/yansh985/Event-Countdown-Timer/assets/140264480/d9860106-cce8-4f5a-a573-f48a10ff16dc)
+
+### Deleting an Event
+![Delete event](https://github.com/yansh985/Event-Countdown-Timer/assets/140264480/43141aca-2cf2-45e8-8079-fb7f41d5be01)
+
+
 ## License
 This project is licensed under the MIT License.
 # If you like this mini project, star this repository.
