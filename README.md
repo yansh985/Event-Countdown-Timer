@@ -48,7 +48,7 @@ Event-Countdown-Timer/
 │
 ├── index.html         # Main HTML file
 ├── README.md          # Project README
-├── Report.docx         # Project report
+├── Report.docx        # Project report
 ├── main.txt           # Script code of the main function
 ```
 
