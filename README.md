@@ -70,9 +70,6 @@ Event-Countdown-Timer/
 ### Deleting an Event
 ![Delete event](https://github.com/yansh985/Event-Countdown-Timer/assets/140264480/43141aca-2cf2-45e8-8079-fb7f41d5be01)
 
-
-## License
-This project is licensed under the MIT License.
 # If you like this mini project, star this repository.
 
 ------
