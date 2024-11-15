@@ -70,10 +70,9 @@ Event-Countdown-Timer/
 ### Deleting an Event
 ![Delete event](https://github.com/yansh985/Event-Countdown-Timer/assets/140264480/43141aca-2cf2-45e8-8079-fb7f41d5be01)
 
-# If you like this mini project, star this repository.
+## If you like this mini project, star this repository.
 
-------
-# Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 ## Contact
@@ -83,4 +82,3 @@ For any questions or suggestions, please contact:
 
 Feel free to adjust the contact email and any other details as needed.
 
-------
